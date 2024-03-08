@@ -1,5 +1,10 @@
-It's a simple Employee Management project . My motive to create this project is to learn about How database works in Django.
-Here the some sample pic of how its work:-
-/assets/employee_add_sec.png
+It's a simple Employee Management project. My motive to create this project is to learn about how a database works in Django. Here are some sample pictures of how it works:
 
-Here the tutroal how u can run this app in your system:-
+you can add employee by click add employee .
+
+![Employee Add Section](assets/employee_add_sec.png)
+
+after added employee you will automatically redirect to the list of employee(database)
+
+![Employee Add Section](assets/employee_list.png)
+Here's a tutorial on how you can run this app in your system:
