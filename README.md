@@ -6,5 +6,6 @@ you can add employee by click add employee .
 
 after added employee you will automatically redirect to the list of employee(database)
 
-![Employee Add Section](assets/employee_list.png)
+![Employee List Section](employee_list_sec.png)
+
 Here's a tutorial on how you can run this app in your system:
