@@ -19,7 +19,7 @@ Feeling intrigued? Eager to dive in and experience it for yourself? Here's a ste
 Clone this repository e.g.
 
 ```bash
-$ https://github.com/sumankarki9/Django-Employee-Management.git
+$ git clone https://github.com/sumankarki9/Django-Employee-Management.git
 ```
 
 after you cloned repo, go to the cloned repo directory and run the following command
