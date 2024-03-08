@@ -1,6 +1,6 @@
 It's a simple Employee Management project. My motive to create this project is to learn about how a database works in Django. Here are some sample pictures of how it works:
 
-you can add employee by click add employee .
+<span style="font-size:28;">you can add employee by click add employee .</span>
 
 ![Employee Add Section](assets/employee_add_sec.png)
 
