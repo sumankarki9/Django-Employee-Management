@@ -14,3 +14,36 @@ Marvel at the organized collection of team members, each represented with vital 
 
 Feeling intrigued? Eager to dive in and experience it for yourself? Here's a step-by-step tutorial on how you can run this application on your system:
 
+
+## Usage Instructions
+Clone this repository e.g.
+
+```bash
+$ https://github.com/sumankarki9/Django-Employee-Management.git
+```
+
+after you cloned repo, go to the cloned repo directory and run the following command
+
+```bash
+
+cd Django-Employee-Management  #Moving into the project folder
+
+
+$ pip install Django # Install Django
+
+$ python manage.py makemigrations
+```
+This will create all the migrations file (database migrations) required to run this App.
+
+Now, to apply this migrations run the following command
+```bash  
+$ python manage.py migrate
+```
+
+That was pretty simple, right? Now let's make the App live. We just need to start the server now and then we can start using our simple Employee Management App. Start the server by following command
+
+```bash
+
+$ python manage.py runserver
+```
+Once the server is hosted, head over to http://127.0.0.1:8000 for the App.
